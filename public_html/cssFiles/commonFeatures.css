@@ -1,0 +1,62 @@
+ body{
+               background-color:green;
+                background-attachment: fixed;
+                font-size: 25px;
+                color:green;
+               
+            }
+            #mainContent{
+                background-color:white;
+               // border:3px dotted black;
+                width:90%;
+                margin-top:5%;
+                margin-left:5%;
+                margin-bottom: 60px;
+                padding-left:2px;
+                padding-right:2px;
+                
+            }
+            .hImage{
+                position:relative;
+                left:34px;
+            }
+            .hSection{
+                list-style-type: none;
+                display: inline;
+               margin:12px;
+               padding:10px;
+               
+            }
+            .ulHead{
+                margin-left:63px;
+            }
+            .hSection:hover{
+                background-color:red;
+                font-size:34px;
+                
+            }
+            footer{
+                background-color:springgreen;
+                margin-bottom: -2px;
+                text-align: center;
+            }
+            #homeContent{
+                margin:23px;
+            }
+            .aboutSlideShow{
+                float:right;
+                margin:25px;
+                
+            }
+            p.pAbout{
+                //float:right;
+                width:50%; 
+                margin:25px;
+            }
+            .bold{
+                font-weight:bold;
+            }
+            .hImage{
+                width:100%;
+                margin-left: -35px;
+            }
